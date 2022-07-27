@@ -1,8 +1,12 @@
-.format {
+body {
     text-align: center;
 }
 
-.recipe {
+uo,
+ol,
+p {
     display: inline-block; 
     text-align: left;
+    margin-left: 300px; 
+    margin-right: 300px;
 }
