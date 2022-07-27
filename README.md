@@ -1,3 +1,3 @@
 # odin-recipes
 
-A simple recipe project using HTML and CSS.
+A simple recipe project using HTML.
