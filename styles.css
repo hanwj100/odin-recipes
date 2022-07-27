@@ -1,0 +1,8 @@
+.format {
+    text-align: center;
+}
+
+.recipe {
+    display: inline-block; 
+    text-align: left;
+}
